@@ -11,7 +11,7 @@ export default function App() {
   return (
     <div className={`box ${colour? 'box2' : ''}`}>
       
-      <h1>Assignment no# 4 - Muhib Aleem</h1>
+      <h1>Assignment no.4 - Muhib Aleem</h1>
       <h2>Colour {colour? 'Yellow' : 'Gray'}</h2>
       <Displaymsg counter={count} />
       <br/>
